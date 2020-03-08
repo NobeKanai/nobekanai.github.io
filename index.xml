@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KANAI&#39;s Blog</title>
-    <link>https://kanai.github.io/</link>
+    <link>https://nobekanai.github.io/</link>
     <description>Recent content on KANAI&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="https://kanai.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nobekanai.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
