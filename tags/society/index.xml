@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>society on KANAI&#39;s Blog</title>
+    <link>https://nobekanai.github.io/tags/society/</link>
+    <description>Recent content in society on KANAI&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 07 Mar 2020 12:31:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://nobekanai.github.io/tags/society/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Science, high-tech, and society</title>
+      <link>https://nobekanai.github.io/2020/03/07/tech-and-society/</link>
+      <pubDate>Sat, 07 Mar 2020 12:31:42 +0800</pubDate>
+      
+      <guid>https://nobekanai.github.io/2020/03/07/tech-and-society/</guid>
+      <description>​	Technology is very important aspect of human condition as it provides cloths, shelters, foods, transportations etc. Technological determinism is the theory that technology is an autonomous force that changes society and it is also the key force to our society. This provides explanations for many changes that can be observed in society, and it has a very simple cause/effect form. However, this theory is false, if you think you have an instance, it means you are looking at just one part of a much more complex situation, and ignoring the complex social network that supports the technology.</description>
+    </item>
+    
+  </channel>
+</rss>
