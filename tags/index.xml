@@ -6,9 +6,28 @@
     <description>Recent content in Tags on KANAI&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Sat, 07 Mar 2020 12:31:42 +0800</lastBuildDate>
     
 	<atom:link href="https://nobekanai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>society</title>
+      <link>https://nobekanai.github.io/tags/society/</link>
+      <pubDate>Sat, 07 Mar 2020 12:31:42 +0800</pubDate>
+      
+      <guid>https://nobekanai.github.io/tags/society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://nobekanai.github.io/tags/technology/</link>
+      <pubDate>Sat, 07 Mar 2020 12:31:42 +0800</pubDate>
+      
+      <guid>https://nobekanai.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

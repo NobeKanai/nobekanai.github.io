@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nobekanai.github.io/2020/adjust-your-earphone/</loc>
+    <loc>https://nobekanai.github.io/2020/03/09/adjust-your-earphone/</loc>
     <lastmod>2020-03-09T11:34:55+08:00</lastmod>
   </url>
   
@@ -24,10 +24,32 @@
   
   <url>
     <loc>https://nobekanai.github.io/categories/</loc>
+    <lastmod>2020-03-07T12:31:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nobekanai.github.io/categories/learn/</loc>
+    <lastmod>2020-03-07T12:31:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nobekanai.github.io/2020/03/07/tech-and-society/</loc>
+    <lastmod>2020-03-07T12:31:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nobekanai.github.io/tags/society/</loc>
+    <lastmod>2020-03-07T12:31:42+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://nobekanai.github.io/tags/</loc>
+    <lastmod>2020-03-07T12:31:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nobekanai.github.io/tags/technology/</loc>
+    <lastmod>2020-03-07T12:31:42+08:00</lastmod>
   </url>
   
 </urlset>
