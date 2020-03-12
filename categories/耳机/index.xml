@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>耳机 on KANAI&#39;s Blog</title>
+    <link>https://nobekanai.github.io/categories/%E8%80%B3%E6%9C%BA/</link>
+    <description>Recent content in 耳机 on KANAI&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 09 Mar 2020 11:34:55 +0800</lastBuildDate>
+    
+	<atom:link href="https://nobekanai.github.io/categories/%E8%80%B3%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EQ你的耳机</title>
+      <link>https://nobekanai.github.io/2020/03/09/adjust-your-earphone/</link>
+      <pubDate>Mon, 09 Mar 2020 11:34:55 +0800</pubDate>
+      
+      <guid>https://nobekanai.github.io/2020/03/09/adjust-your-earphone/</guid>
+      <description>写在前面 为什么要给耳机调音（Equalizing）呢？ 这是因为不同厂商，型号的耳机的声音的表现不同， 但是一般来说不会有什么音质的差距(地摊货</description>
+    </item>
+    
+  </channel>
+</rss>
