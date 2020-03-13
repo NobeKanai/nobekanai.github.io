@@ -6,19 +6,10 @@
     <description>Recent content in Categories on KANAI&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Mar 2020 19:18:51 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 11:34:55 +0800</lastBuildDate>
     
 	<atom:link href="https://nobekanai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>learn</title>
-      <link>https://nobekanai.github.io/categories/learn/</link>
-      <pubDate>Tue, 10 Mar 2020 19:18:51 +0800</pubDate>
-      
-      <guid>https://nobekanai.github.io/categories/learn/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>earphone</title>
@@ -26,6 +17,15 @@
       <pubDate>Mon, 09 Mar 2020 11:34:55 +0800</pubDate>
       
       <guid>https://nobekanai.github.io/categories/earphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learn</title>
+      <link>https://nobekanai.github.io/categories/learn/</link>
+      <pubDate>Sat, 07 Mar 2020 12:31:42 +0800</pubDate>
+      
+      <guid>https://nobekanai.github.io/categories/learn/</guid>
       <description></description>
     </item>
     
