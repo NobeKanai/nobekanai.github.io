@@ -6,7 +6,7 @@
     <description>Recent content on KANAI&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 08 Mar 2020 16:35:16 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 10:59:13 +0800</lastBuildDate>
     
 	<atom:link href="https://nobekanai.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,15 +27,6 @@
       
       <guid>https://nobekanai.github.io/about/</guid>
       <description>Nobe Kanai 现大一学生，喜欢编程， 音乐（车万）， 还有黑哲。 学习渣渣， 现嘤语专业。 专业划水(骄傲) 技能评价： Python 0.5 HTML5 0.5 CSS3 0.3 Sass 0.1 Javascript 0.2 nginx 0.1 SQL 0.1 Redis 0.1 Vue.js 0.3 Typescript 0.1 Flask</description>
-    </item>
-    
-    <item>
-      <title>Impacts of Information Technology on Society in the new Century</title>
-      <link>https://nobekanai.github.io/2020/03/07/tech-and-society/</link>
-      <pubDate>Sat, 07 Mar 2020 12:31:42 +0800</pubDate>
-      
-      <guid>https://nobekanai.github.io/2020/03/07/tech-and-society/</guid>
-      <description>INTRODUCTION In the past few decades there has been a revolution in computing and communications, and all indications are that technological progress and use of information technology will continue at a rapid pace. Accompanying and supporting the dramatic increases in the power and use of new information technologies has been the declining cost of communications as a result of both technological improvements and increased competition. According to Moore’s law the processing power of microchips is doubling every 18 months.</description>
     </item>
     
   </channel>
