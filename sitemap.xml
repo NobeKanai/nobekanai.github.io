@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nobekanai.github.io/2020/10/19/huffman-coding/</loc>
-    <lastmod>2020-10-19T09:28:53+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nobekanai.github.io/categories/algorithm/</loc>
     <lastmod>2020-10-19T09:28:53+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://nobekanai.github.io/categories/</loc>
+    <lastmod>2020-10-19T09:28:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nobekanai.github.io/2020/10/19/huffman-coding/</loc>
     <lastmod>2020-10-19T09:28:53+08:00</lastmod>
   </url>
   

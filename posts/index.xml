@@ -12,12 +12,12 @@
     
     
     <item>
-      <title></title>
+      <title>Huffman Code and Huffman Tree</title>
       <link>https://nobekanai.github.io/2020/10/19/huffman-coding/</link>
       <pubDate>Mon, 19 Oct 2020 09:28:53 +0800</pubDate>
       
       <guid>https://nobekanai.github.io/2020/10/19/huffman-coding/</guid>
-      <description>Huffman Code and Huffman Tree 概述 哈夫曼编码是一种基于最优二叉树构建的一种数据压缩算法。 哈夫曼编码是一种无前缀编码。 解码时不会混淆 如何构建哈夫曼树(最优二叉树 -</description>
+      <description>概述 哈夫曼编码是一种基于最优二叉树构建的一种数据压缩算法。 哈夫曼编码是一种无前缀编码。 解码时不会混淆 如何构建哈夫曼树(最优二叉树 - 带权路径最</description>
     </item>
     
     <item>
