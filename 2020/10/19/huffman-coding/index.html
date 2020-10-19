@@ -7,24 +7,27 @@
     <meta http-equiv="Content-Language" content="zh-cn">
 
     <meta name="author" content="Nobe Kanai">
-    <meta name="description" content="Kanai&#39;s personal website">
+    <meta name="description" content="Huffman Code and Huffman Tree 概述 哈夫曼编码是一种基于最优二叉树构建的一种数据压缩算法。 哈夫曼编码是一种无前缀编码。 解码时不会混淆 如何构建哈夫曼树(最优二叉树 -">
     <meta name="keywords" content="blog, develpoer, personal">
 
     <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="KANAI&#39;s Blog"/>
-<meta name="twitter:description" content="Kanai&#39;s personal website"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="Huffman Code and Huffman Tree 概述 哈夫曼编码是一种基于最优二叉树构建的一种数据压缩算法。 哈夫曼编码是一种无前缀编码。 解码时不会混淆 如何构建哈夫曼树(最优二叉树 -"/>
 
-    <meta property="og:title" content="KANAI&#39;s Blog" />
-<meta property="og:description" content="Kanai&#39;s personal website" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://nobekanai.github.io/" />
-<meta property="og:updated_time" content="2020-10-19T09:28:53+08:00" />
+    <meta property="og:title" content="" />
+<meta property="og:description" content="Huffman Code and Huffman Tree 概述 哈夫曼编码是一种基于最优二叉树构建的一种数据压缩算法。 哈夫曼编码是一种无前缀编码。 解码时不会混淆 如何构建哈夫曼树(最优二叉树 -" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nobekanai.github.io/2020/10/19/huffman-coding/" />
+<meta property="article:published_time" content="2020-10-19T09:28:53+08:00" />
+<meta property="article:modified_time" content="2020-10-19T09:28:53+08:00" />
 
 
-    <title>KANAI&#39;s Blog</title>
+    <title>
+   · KANAI&#39;s Blog
+</title>
 
     
-      <link rel="canonical" href="https://nobekanai.github.io/">
+      <link rel="canonical" href="https://nobekanai.github.io/2020/10/19/huffman-coding/">
     
 
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
@@ -51,7 +54,6 @@
     <link rel="apple-touch-icon" href="https://nobekanai.github.io/images/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="180x180" href="https://nobekanai.github.io/images/apple-touch-icon.png">
 
-    <link rel="alternate" type="application/rss+xml" href="https://nobekanai.github.io/index.xml" title="KANAI's Blog" />
     
 
     <meta name="generator" content="Hugo 0.72.0" />
@@ -112,48 +114,79 @@
 
       <div class="content">
         
-  <section class="container centered">
-  <div class="about">
-    
-      
-        <div class="avatar"><img src="https://secure.gravatar.com/avatar/34b45a6df4eedeb6459f2688348d676f?s=300&amp;r=PG&amp;d=" alt="avatar"></div>
-      
-    
-    
-    <h1>Nobe Kanai</h1>
-    <h2>Just a student...</h2>
-    
-    <ul>
-      
-        
-          <li>
-            <a href="https://github.com/NobeKanai/" aria-label="Github"   >
-              <i class="fab fa-github fa-2x" aria-hidden="true"></i>
-            </a>
-          </li>
-        
-      
-        
-          <li>
-            <a href="https://twitter.com/dad_qi" aria-label="Twitter"   >
-              <i class="fab fa-twitter fa-2x" aria-hidden="true"></i>
-            </a>
-          </li>
-        
-      
-        
-          <li>
-            <a href="https://t.me/NobeKanai" aria-label="Telegram"   >
-              <i class="fab fa-telegram fa-2x" aria-hidden="true"></i>
-            </a>
-          </li>
-        
-      
-    </ul>
-    
-  </div>
-</section>
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title"></h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <time datetime='2020-10-19T09:28:53&#43;08:00'>
+                October 19, 2020
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              1 分钟阅读时间
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa fa-folder" aria-hidden="true"></i>
+    <a href="https://nobekanai.github.io/categories/algorithm/">Algorithm</a></div>
 
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <a href="https://nobekanai.github.io/tags/huffman-tree/">Huffman Tree</a></div>
+
+        </div>
+      </header>
+
+      <div>
+        
+        <h1 id="huffman-code-and-huffman-tree">Huffman Code and Huffman Tree</h1>
+<h2 id="概述">概述</h2>
+<ul>
+<li>哈夫曼编码是一种基于最优二叉树构建的一种数据压缩算法。</li>
+<li>哈夫曼编码是一种无前缀编码。 解码时不会混淆</li>
+</ul>
+<h2 id="如何构建哈夫曼树最优二叉树---带权路径最小的二叉树">如何构建哈夫曼树(最优二叉树 - 带权路径最小的二叉树)</h2>
+<ol>
+<li>
+<p>初始队列</p>
+<p>按照字符出现频率高低放入一个优先级队列中（权重逐渐增大）</p>
+</li>
+<li>
+<p>合并队列</p>
+<ol>
+<li>合并前两个元素， 分别作为左节点和右节点， 权重分别为各字符的权重， 其父节点为一个权重为两个权重和的节点</li>
+<li>将当前的父节点在队列中排序使其保持有序(权重从小到大)</li>
+<li>重复2.1 步操作直到队列为空</li>
+</ol>
+</li>
+</ol>
+<h2 id="哈夫曼编码">哈夫曼编码</h2>
+<p>根据上面带权二叉树的路径， 将左分支编码为0， 右分支编码为1， 那么每一个字符都有全局唯一的的编码方式</p>
+<p>依次遍历二叉树， 获取所有的字符的编码， 得到编码表， 最后对字符串进行编码， 实现数据压缩</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
 
       </div>
 

@@ -3,27 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nobekanai.github.io/2020/10/19/huffman-coding/</loc>
+    <lastmod>2020-10-19T09:28:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nobekanai.github.io/categories/algorithm/</loc>
+    <lastmod>2020-10-19T09:28:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nobekanai.github.io/categories/</loc>
+    <lastmod>2020-10-19T09:28:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nobekanai.github.io/tags/huffman-tree/</loc>
+    <lastmod>2020-10-19T09:28:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nobekanai.github.io/</loc>
+    <lastmod>2020-10-19T09:28:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nobekanai.github.io/posts/</loc>
+    <lastmod>2020-10-19T09:28:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nobekanai.github.io/tags/</loc>
+    <lastmod>2020-10-19T09:28:53+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nobekanai.github.io/2020/04/06/wissenschaft-der-logik-reading-review/</loc>
     <lastmod>2020-04-06T10:59:13+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nobekanai.github.io/categories/</loc>
-    <lastmod>2020-04-06T10:59:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nobekanai.github.io/</loc>
-    <lastmod>2020-04-06T10:59:13+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nobekanai.github.io/tags/philosophy/</loc>
-    <lastmod>2020-04-06T10:59:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nobekanai.github.io/posts/</loc>
     <lastmod>2020-04-06T10:59:13+08:00</lastmod>
   </url>
   
@@ -34,11 +54,6 @@
   
   <url>
     <loc>https://nobekanai.github.io/tags/report/</loc>
-    <lastmod>2020-04-06T10:59:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nobekanai.github.io/tags/</loc>
     <lastmod>2020-04-06T10:59:13+08:00</lastmod>
   </url>
   
