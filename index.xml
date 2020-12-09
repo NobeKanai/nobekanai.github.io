@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KANAI&#39;s Blog</title>
+    <title>KANAI&#39;S Blog</title>
     <link>https://nobekanai.github.io/</link>
-    <description>Recent content on KANAI&#39;s Blog</description>
+    <description>Recent content on KANAI&#39;S Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 19 Oct 2020 09:28:53 +0800</lastBuildDate>
-    
-	<atom:link href="https://nobekanai.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 19 Oct 2020 09:28:53 +0800</lastBuildDate><atom:link href="https://nobekanai.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Huffman Code and Huffman Tree</title>
       <link>https://nobekanai.github.io/2020/10/19/huffman-coding/</link>
       <pubDate>Mon, 19 Oct 2020 09:28:53 +0800</pubDate>
       
       <guid>https://nobekanai.github.io/2020/10/19/huffman-coding/</guid>
-      <description>概述 哈夫曼编码是一种基于最优二叉树构建的一种数据压缩算法。 哈夫曼编码是一种无前缀编码。 解码时不会混淆 如何构建哈夫曼树(最优二叉树 - 带权路径最</description>
+      <description>个人项目 地址 -&amp;gt; GITHUB 概述 哈夫曼编码是一种基于最优二叉树构建的一种数据压缩算法。 哈夫曼编码是一种无前缀编码。 解码时不会混淆 如何构建哈夫曼树(最优二</description>
     </item>
     
     <item>
@@ -35,7 +31,7 @@
       <pubDate>Sun, 08 Mar 2020 16:35:16 +0800</pubDate>
       
       <guid>https://nobekanai.github.io/about/</guid>
-      <description>Nobe Kanai 现大一学生，喜欢编程， 音乐（车万）， 还有黑哲。 学习渣渣， 现嘤语专业。 专业划水(骄傲) 技能评价： Python 0.5 HTML5 0.5 CSS3 0.3 Sass 0.1 Javascript 0.2 nginx 0.1 SQL 0.1 Redis 0.1 Vue.js 0.3 Typescript 0.1 Flask</description>
+      <description>Nobe Kanai Sophomore/经常挂科/Linux Beginner/Music Lover/TOHO/Frontend Developer/Backend Developer/Philosophy Lover/Hegelianism/Social science learners</description>
     </item>
     
   </channel>
